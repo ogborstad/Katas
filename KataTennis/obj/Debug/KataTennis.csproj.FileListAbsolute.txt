@@ -1,0 +1,7 @@
+C:\Documents and Settings\AB46628\Mine dokumenter\Programmering\KataTennis\KataTennis\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\AB46628\Mine dokumenter\Programmering\KataTennis\KataTennis\bin\Debug\KataTennis.dll
+C:\Documents and Settings\AB46628\Mine dokumenter\Programmering\KataTennis\KataTennis\bin\Debug\KataTennis.pdb
+C:\Documents and Settings\AB46628\Mine dokumenter\Programmering\KataTennis\KataTennis\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\AB46628\Mine dokumenter\Programmering\KataTennis\KataTennis\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\AB46628\Mine dokumenter\Programmering\KataTennis\KataTennis\obj\Debug\KataTennis.dll
+C:\Documents and Settings\AB46628\Mine dokumenter\Programmering\KataTennis\KataTennis\obj\Debug\KataTennis.pdb
