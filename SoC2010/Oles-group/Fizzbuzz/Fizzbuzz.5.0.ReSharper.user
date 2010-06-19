@@ -1,0 +1,94 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="62322091-08C0-4A07-B850-A4732E6CD881/f:Fizzbuzz.cs" caret="370" fromTop="10" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="307" fromTop="3" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="252" fromTop="7" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="697" fromTop="13" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="697" fromTop="7" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="697" fromTop="5" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="697" fromTop="1" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="697" fromTop="16" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="824" fromTop="14" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="1779" fromTop="18" />
+      <File id="62322091-08C0-4A07-B850-A4732E6CD881/f:Fizzbuzz.cs" caret="13" fromTop="0" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="1180" fromTop="9" />
+      <File id="62322091-08C0-4A07-B850-A4732E6CD881/f:Fizzbuzz.cs" caret="592" fromTop="13" />
+      <File id="62322091-08C0-4A07-B850-A4732E6CD881/f:Fizzbuzz.cs" caret="518" fromTop="15" />
+      <File id="62322091-08C0-4A07-B850-A4732E6CD881/f:Fizzbuzz.cs" caret="174" fromTop="7" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="697" fromTop="6" />
+      <File id="A9D7334F-E1D6-4EFF-A366-645DBD15ABA4/f:FizzbuzzTests.cs" caret="1529" fromTop="17" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="using" priority="0" />
+      <Item value="NUnit.Framework" priority="0" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="test" priority="8" />
+      <Item value="var" priority="4" />
+      <Item value="new" priority="5" />
+      <Item value="Fizzbuzz" priority="1" />
+      <Item value="Assert`0" priority="4" />
+      <Item value="number" priority="10" />
+      <Item value="FizzbuzzKata" priority="0" />
+      <Item value="String`0" priority="0" />
+      <Item value="return" priority="5" />
+      <Item value="int" priority="5" />
+      <Item value="Fizzbuzz`0" priority="2" />
+      <Item value="fizzbuzz" priority="2" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="public" priority="5" />
+      <Item value="void" priority="5" />
+      <Item value="SetUpAttribute`0" priority="0" />
+      <Item value="Test" priority="1" />
+      <Item value="if" priority="5" />
+      <Item value="private" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="excpected" priority="0" />
+      <Item value="_result" priority="0" />
+      <Item value="Given`0" priority="8" />
+      <Item value="Expect`0" priority="7" />
+      <Item value="Boolean`0" priority="0" />
+      <Item value="divideBy" priority="0" />
+      <Item value="true" priority="0" />
+      <Item value="isDivisable`0" priority="3" />
+      <Item value="List`0" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="foreach" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzbuzzKata.Fizzbuzz">
+      <Item value="getAnswer`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

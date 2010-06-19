@@ -1,0 +1,100 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:IMessageSender.cs" caret="216" fromTop="8" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:EmailMessageSender.cs" caret="194" fromTop="8" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCartTests.cs" caret="505" fromTop="8" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:EmailMessageSenderAdapter.cs" caret="357" fromTop="11" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCart.cs" caret="122" fromTop="5" />
+      <File id="621D32D9-3095-43DE-8285-1C2543FC6E5A/f:Program.cs" caret="299" fromTop="11" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCartTests.cs" caret="1001" fromTop="17" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:IMessageSender.cs" caret="216" fromTop="8" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCart.cs" caret="462" fromTop="17" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCartTests.cs" caret="906" fromTop="12" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCartTests.cs" caret="745" fromTop="7" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCartTests.cs" caret="645" fromTop="10" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:EmailMessageSender.cs" caret="293" fromTop="10" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCart.cs" caret="241" fromTop="11" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:EmailMessageSender.cs" caret="203" fromTop="8" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:EmailMessageSenderAdapter.cs" caret="183" fromTop="6" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:EmailMessageSenderAdapter.cs" caret="375" fromTop="11" />
+      <File id="344F0603-B6DF-4312-A989-0533129AE464/f:ShoppingCartTests.cs" caret="527" fromTop="8" />
+      <File id="621D32D9-3095-43DE-8285-1C2543FC6E5A/f:Program.cs" caret="337" fromTop="13" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="testfixture" priority="0" />
+      <Item value="test" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="new" priority="7" />
+      <Item value="ShoppingCartTests`0" priority="0" />
+      <Item value="UInt16`0" priority="0" />
+      <Item value="shoppingCart" priority="0" />
+      <Item value="Assert`0" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="false" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="class" priority="0" />
+      <Item value="prop" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="MessageSenderMock`0" priority="0" />
+      <Item value="messageSender" priority="3" />
+      <Item value="void" priority="1" />
+      <Item value="string" priority="0" />
+      <Item value="IMessageSender`0" priority="3" />
+      <Item value="this" priority="0" />
+      <Item value="MessageIsSent" priority="0" />
+      <Item value="int" priority="0" />
+      <Item value="SendCallCount" priority="0" />
+      <Item value="messageSenderMock" priority="1" />
+      <Item value="Console`0" priority="0" />
+      <Item value="email" priority="1" />
+      <Item value="EmailMessageSender`0" priority="1" />
+      <Item value="emailMessageSender" priority="0" />
+      <Item value="message" priority="0" />
+      <Item value="EmailMessageSenderAdapter`0" priority="1" />
+      <Item value="cart" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="IsTrue`0" priority="0" />
+      <Item value="AreEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HandlekurvMocking.ShoppingCartTests+MessageSenderMock">
+      <Item value="MessageIsSent" priority="0" />
+      <Item value="SendCallCount" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HandlekurvMocking.ShoppingCart">
+      <Item value="messageSender" priority="0" />
+      <Item value="PlaceOrder`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HandlekurvMocking.IMessageSender">
+      <Item value="Send`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HandlekurvMocking.EmailMessageSender">
+      <Item value="Kaboom`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

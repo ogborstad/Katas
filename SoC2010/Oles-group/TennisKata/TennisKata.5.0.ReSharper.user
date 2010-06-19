@@ -1,0 +1,115 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="755" fromTop="12" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="2506" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="244" fromTop="12" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="631" fromTop="20" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="486" fromTop="14" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="372" fromTop="9" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="2344" fromTop="11" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="2460" fromTop="15" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="3151" fromTop="24" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="3136" fromTop="25" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="1129" fromTop="24" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="900" fromTop="16" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="675" fromTop="8" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="438" fromTop="4" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="1461" fromTop="18" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="1506" fromTop="20" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="2041" fromTop="21" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="1673" fromTop="5" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="902" fromTop="14" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="1955" fromTop="22" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="249" fromTop="9" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="973" fromTop="13" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="973" fromTop="11" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="2015" fromTop="18" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="2165" fromTop="20" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="973" fromTop="12" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="890" fromTop="8" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="2583" fromTop="10" />
+      <File id="F33A814B-8558-4C33-BA77-39AA1012E779/f:TennisTest.cs" caret="2924" fromTop="21" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="677" fromTop="1" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="1591" fromTop="6" />
+      <File id="EC8639CD-7675-4E37-A011-7BA68A836AC2/f:Game.cs" caret="1710" fromTop="11" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.3\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="test" priority="10" />
+      <Item value="new" priority="3" />
+      <Item value="game" priority="7" />
+      <Item value="var" priority="10" />
+      <Item value="Assert`0" priority="7" />
+      <Item value="score" priority="2" />
+      <Item value="int" priority="8" />
+      <Item value="public" priority="7" />
+      <Item value="Game`0" priority="2" />
+      <Item value="player2Score" priority="3" />
+      <Item value="player1Score" priority="3" />
+      <Item value="string" priority="2" />
+      <Item value="return" priority="14" />
+      <Item value="testfixture" priority="0" />
+      <Item value="TestFixture" priority="0" />
+      <Item value="Test" priority="0" />
+      <Item value="if" priority="15" />
+      <Item value="prop" priority="1" />
+      <Item value="void" priority="2" />
+      <Item value="_game" priority="7" />
+      <Item value="Game" priority="0" />
+      <Item value="private" priority="3" />
+      <Item value="_scoreArray" priority="0" />
+      <Item value="_player1Score" priority="0" />
+      <Item value="GetPlayer1Score`0" priority="1" />
+      <Item value="GetPlayer2Score`0" priority="0" />
+      <Item value="_player1BallsWon" priority="13" />
+      <Item value="_player2BallsWon" priority="9" />
+      <Item value="player1BallsWon" priority="0" />
+      <Item value="player2BallsWon" priority="0" />
+      <Item value="SetBallsWon`0" priority="8" />
+      <Item value="BothPlayersHasAtLeast40Points`0" priority="0" />
+      <Item value="Math`0" priority="1" />
+      <Item value="else" priority="0" />
+      <Item value="bool" priority="1" />
+      <Item value="IsGameWon`0" priority="0" />
+      <Item value="GetBallsWonDifference`0" priority="2" />
+      <Item value="OnePlayerHasMoreThan40Points`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="6" />
+      <Item value="AreNotEqual`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TennisKataTest.Game">
+      <Item value="setP1Score`0" priority="0" />
+      <Item value="setP2Score`0" priority="0" />
+      <Item value="getScore`0" priority="1" />
+      <Item value="setPlayer1Score`0" priority="0" />
+      <Item value="setPlayer2Score`0" priority="0" />
+      <Item value="SetPlayer1BallsWon`0" priority="1" />
+      <Item value="GetScore`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Abs`0" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
