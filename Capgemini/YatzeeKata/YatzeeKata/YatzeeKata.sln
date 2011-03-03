@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatzeeKata", "YatzeeKata\YatzeeKata.csproj", "{CE53414D-C658-48D6-B832-01CEC8C8168E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YatzeeKataTests", "YatzeeKataTests\YatzeeKataTests.csproj", "{28B3E14A-FF0D-4481-A186-F4B2F3B1DA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE53414D-C658-48D6-B832-01CEC8C8168E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE53414D-C658-48D6-B832-01CEC8C8168E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE53414D-C658-48D6-B832-01CEC8C8168E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE53414D-C658-48D6-B832-01CEC8C8168E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B3E14A-FF0D-4481-A186-F4B2F3B1DA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B3E14A-FF0D-4481-A186-F4B2F3B1DA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B3E14A-FF0D-4481-A186-F4B2F3B1DA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B3E14A-FF0D-4481-A186-F4B2F3B1DA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

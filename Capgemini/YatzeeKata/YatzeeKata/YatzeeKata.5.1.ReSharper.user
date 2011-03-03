@@ -1,0 +1,141 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="3413" fromTop="14" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="2279" fromTop="32" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="3551" fromTop="23" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="309" fromTop="4" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1143" fromTop="15" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1143" fromTop="15" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1143" fromTop="14" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1143" fromTop="13" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="647" fromTop="5" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="981" fromTop="12" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="1318" fromTop="19" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="1620" fromTop="12" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="1928" fromTop="18" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="2228" fromTop="24" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="261" fromTop="8" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="2272" fromTop="23" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="261" fromTop="3" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="393" fromTop="8" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="3535" fromTop="22" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1137" fromTop="17" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="2667" fromTop="16" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="3223" fromTop="24" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="3223" fromTop="21" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="2968" fromTop="15" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1100" fromTop="18" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="2272" fromTop="16" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1146" fromTop="9" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1300" fromTop="14" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1816" fromTop="12" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="2261" fromTop="16" />
+      <File id="CE53414D-C658-48D6-B832-01CEC8C8168E/f:Yahtzee.cs" caret="1972" fromTop="17" />
+      <File id="28B3E14A-FF0D-4481-A186-F4B2F3B1DA57/f:YatzeeTests.cs" caret="380" fromTop="3" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.9\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Assert`0" priority="2" />
+      <Item value="yahtzee" priority="3" />
+      <Item value="new" priority="2" />
+      <Item value="Yahtzee" priority="1" />
+      <Item value="return" priority="9" />
+      <Item value="NUnit" priority="0" />
+      <Item value="Framework" priority="0" />
+      <Item value="TestCase" priority="2" />
+      <Item value="int" priority="19" />
+      <Item value="dice1" priority="3" />
+      <Item value="dice2" priority="2" />
+      <Item value="dice3" priority="2" />
+      <Item value="dice4" priority="2" />
+      <Item value="expectedScore" priority="2" />
+      <Item value="dice5" priority="2" />
+      <Item value="var" priority="1" />
+      <Item value="Yahtzee`0" priority="1" />
+      <Item value="actualScore" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="category" priority="9" />
+      <Item value="private" priority="2" />
+      <Item value="void" priority="1" />
+      <Item value="EnvironmentVariableTarget`0" priority="0" />
+      <Item value="SetUp" priority="0" />
+      <Item value="public" priority="4" />
+      <Item value="else" priority="0" />
+      <Item value="numberOfOnes" priority="1" />
+      <Item value="dice" priority="4" />
+      <Item value="Where`1" priority="1" />
+      <Item value="d" priority="5" />
+      <Item value="query" priority="0" />
+      <Item value="Sum`1" priority="0" />
+      <Item value="enum" priority="0" />
+      <Item value="YahtzeeCategory`0" priority="12" />
+      <Item value="Fours" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="static" priority="1" />
+      <Item value="bool" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="Ones" priority="0" />
+      <Item value="AssertScore`0" priority="0" />
+      <Item value="GroupBy`4" priority="0" />
+      <Item value="where" priority="0" />
+      <Item value="g" priority="2" />
+      <Item value="orderby" priority="0" />
+      <Item value="descending" priority="0" />
+      <Item value="select" priority="0" />
+      <Item value="numberGroups" priority="0" />
+      <Item value="TwoPair" priority="0" />
+      <Item value="SumLowestPair`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:YatzeeKataTests.Yahtzee">
+      <Item value="Score`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Sum`1" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="OrderByDescending`2" priority="0" />
+      <Item value="Where`1" priority="0" />
+      <Item value="First`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@YatzeeKataTests.YahtzeeCategory">
+      <Item value="Chance" priority="1" />
+      <Item value="Ones" priority="1" />
+      <Item value="Twos" priority="2" />
+      <Item value="Three" priority="3" />
+      <Item value="Fours" priority="2" />
+      <Item value="Fives" priority="2" />
+      <Item value="Sixes" priority="2" />
+      <Item value="Pair" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:YatzeeKataTests.YahtzeeCategory">
+      <Item value="Equals`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IGrouping`2">
+      <Item value="Count`1" priority="1" />
+      <Item value="Key" priority="3" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
